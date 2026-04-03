@@ -1,3 +1,1 @@
-export default function Page() {
-  return <div>Hello</div>;
-}
+export default function PremiumCannabisDomainsLandingPage() {
